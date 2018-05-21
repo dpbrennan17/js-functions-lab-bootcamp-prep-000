@@ -1,6 +1,7 @@
 // write your code below!
 
-var holiday = Independence day
+var holiday = "Independence day"
+var days = "20"
 
 function happyHolidays() {
   return "Happy holidays!";
